@@ -3,7 +3,7 @@
 ###
 ####
 #####
-- 👋 Hi, welcome, I’m Ísis Emanuele!!
+- 👋 Hey, welcome, I’m Ísis Emanuele!!
 - 👀 I’m 15...
 - 🌱 I live in Brazil!
 - 💞️ He/She/They.
